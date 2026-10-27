@@ -1,0 +1,12 @@
+# 运行数据（含个人环境读数，不要提交）
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
